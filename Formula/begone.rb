@@ -3,7 +3,7 @@ class Begone < Formula
   homepage "https://github.com/stevenxie/begone"
   url "https://github.com/stevenxie/begone/releases/download/v1.3.2/begone-1.3.2-macOS-x86_64.tar.gz"
   version "1.3.2"
-  sha256 "568ce4ac5754fd6fa2d58c6adc9506f357297f26dfe92bcac5faeb05a2b054d8"
+  sha256 "56a7d3da1aa88fc9fec458c544a22290815adee3f71b3408aa2656cb7d04ad11"
 
   def install
     bin.install "begone"
