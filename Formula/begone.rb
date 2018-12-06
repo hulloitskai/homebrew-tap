@@ -1,9 +1,9 @@
 class Begone < Formula
   desc "A fully automatic spamming tool for Facebook Messenger."
   homepage "https://github.com/stevenxie/begone"
-  url "https://github.com/stevenxie/begone/releases/download/v1.5.2/begone-1.5.2-macOS-x86_64.tar.gz"
-  version "1.5.2"
-  sha256 "bf53a2c31ab6d2840b8beba458b979d804f27a638de3c67651797de99f0d2b72"
+  url "https://github.com/stevenxie/begone/releases/download/v1.5.3/begone-1.5.3-macOS-x86_64.zip"
+  version "1.5.3"
+  sha256 "2eede6166d254a4e84da6915cda97638435cc7cf613c9d819748bcfabe4f4fbb"
 
   def install
     bin.install "begone"
