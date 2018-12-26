@@ -10,9 +10,13 @@ _A [Homebrew](https://brew.sh) tap for
 
 - [`dgen`](https://github.com/stevenxie/dgen) – A CLI tool for repeating a
   string an excessive number of times.
+
   > You must install this as `stevenxie/tap/dgen`, rather than just `dgen`;
-  > there is an existing package in `homebrew/core` named `dgen`, which
+  > there is an existing formula in `homebrew/core` named `dgen`, which
   > conflicts with the name of this formula.
+
+- [`quest-cli`](https://github.com/stevenxie/quest-cli) - A CLI client for the
+  UWaterloo Quest Information System.
 
 ## Usage
 
