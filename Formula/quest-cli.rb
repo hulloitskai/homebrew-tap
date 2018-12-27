@@ -1,9 +1,9 @@
 class QuestCli < Formula
   desc "A command-line client for the UW Quest Information System."
   homepage "https://github.com/stevenxie/quest-cli"
-  url "https://github.com/stevenxie/quest-cli/releases/download/v0.2.1/quest-cli-0.2.1-macOS-x86_64.zip"
-  version "0.2.1"
-  sha256 "96e3aca3c85a05806999a1ccd3166a8c4702a9848e5cd962f3de40ab25ed06d5"
+  url "https://github.com/stevenxie/quest-cli/releases/download/v0.2.2/quest-cli-0.2.2-macOS-x86_64.zip"
+  version "0.2.2"
+  sha256 "e93a8d3fe07a12239bc300a349f38bb86cb84b6d7c6537ff3bc0adfced34760c"
 
   def install
     bin.install "quest"
