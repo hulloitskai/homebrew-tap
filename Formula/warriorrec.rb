@@ -2,16 +2,16 @@
 class Warriorrec < Formula
   desc "A CLI tool for getting Warrior Recreation schedules."
   homepage "https://github.com/stevenxie/warriorrec"
-  version "0.1.0"
+  version "0.1.1"
   bottle :unneeded
 
   if OS.mac?
-    url "https://github.com/stevenxie/warriorrec/releases/download/v0.1.0/warriorrec-0.1.0-macOS-x86_64.zip"
-    sha256 "ae3cccccd8263e471d8adf9b9181f8943467b29726f92555f69c962ac5ef75b5"
+    url "https://github.com/stevenxie/warriorrec/releases/download/v0.1.1/warriorrec-0.1.1-macOS-x86_64.zip"
+    sha256 "3096be5f993100b671eb75dcd60019dfddd69e85de46f618ea2540094827afed"
   elsif OS.linux?
     if Hardware::CPU.intel?
-      url "https://github.com/stevenxie/warriorrec/releases/download/v0.1.0/warriorrec-0.1.0-linux-x86_64.tar.gz"
-      sha256 "8947599c6377282b29ce70dd158305088288628fd83ee87fc2482176c00f5a5a"
+      url "https://github.com/stevenxie/warriorrec/releases/download/v0.1.1/warriorrec-0.1.1-linux-x86_64.tar.gz"
+      sha256 "f7019c0255a240f32165327cb33b26c851201376f3fc14b9f9566430caa256e5"
     end
   end
 
