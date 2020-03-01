@@ -15,8 +15,8 @@ _A [Homebrew](https://brew.sh) tap for
   > there is an existing formula in `homebrew/core` named `dgen`, which
   > conflicts with the name of this formula.
 
-- [`quest-cli`](https://github.com/stevenxie/quest-cli) - A CLI client for the
-  UWaterloo Quest Information System.
+- [`warriorrec`](https://github.com/stevenxie/warriorrec) - A CLI tool for
+  getting Warrior Recreation schedules.
 
 ## Usage
 
